@@ -30,10 +30,10 @@ As this was a one-table dataset, there was no need for modelling to be carried o
 
 ## Transformation
 
-[Image of raw loaded data]
+![Image of raw loaded data](meriskill_1_1_082357.png)
 
 To get the data analysis ready, the first field (which was not needed) was dropped.
-[Image meriskill_1_2]
+![](meriskill_1_2_082359.png)
 
 Also, data was grouped, to enhance analysis, into the following:
 1. Product class type
@@ -48,6 +48,12 @@ Also, data was grouped, to enhance analysis, into the following:
 	2. Non-Tech product
 These grouping will serve as classifications of products to make analysis easier.
 
+![](meriskill_1_3_1_082400.png)
+
+![](meriskill_1_4_082401.png)
+
+![](meriskill_1_5_082354.png)
+
 ## Visualisation
 
 A single page visualisation and report was generated as a result of the analysis.
@@ -56,7 +62,7 @@ A single page visualisation and report was generated as a result of the analysis
 
 ### Main Dashboard
 
-[picture here]
+![Main Dashboard](share_pdf_exportpage1.png)
 
 #### Revenue
 In the course of one year, the company generated **$34.49 million** in revenue, showing a growth of **154.38%** between January 2019 and December 2019. Although the data for  January 2020 is included in the data set, it was not included in the analysis as data collected stopped on the first day of January 2020.
@@ -66,7 +72,7 @@ The mid spring to the end of summer saw a drop in revenue, which is likely due t
 This flow of data shows a high potential of a slight dip before a rebound in revenue.
 
 #### Does More Quantity Actually mean More Revenue?
-AAA batteries and AA batteries sold off the most but still generated the least Revenue, this reality would leave anyone perplexed.[sad face emoji]
+AAA batteries and AA batteries sold off the most but still generated the least Revenue, this reality would leave anyone perplexed. ☹️
 
 Digging a little deeper, we realise that this pattern was due to the fact that these high demand items are actually the lesser expensive which made their revenue generation rate very slow. The demand on these items is likely due to the fact that they have relatively shorter life spans but are too important to be abandoned completely. This would play a vital role when creating marketing campaigns to boost revenue.
 
@@ -89,7 +95,7 @@ Customers tend to acquire products during that peak of their "waking hour". This
 With the data at hand, it's clear that the company's revenue was largely driven by tech products, which accounted for over **98%** of total annual revenue. Luxury items also proved popular among customers, generating nearly **70%** of the company's total revenue. All of these figures, combined with the sizable amount spent on high-cost items, point to the fact that the majority of the company's customers are likely high-income earners, 
 
 Harnessing all of these, it would be wise to consider the following recommendations.
-### Recommendation
+### Recommendations
 1. Setup campaigns that would target the end of the year boost in sales and also create a reward system that keeps customers active through the low points, middle of the year. This could be in the form of a 5% discount for sales in the middle of the year that exceed a specific amount.
 2. Subscription services should be offered for high demand-low income items, such as a subscription service that delivers AAA batteries to the customer's house monthly or bi-monthly.
 3. Marketing campaigns for high-income customers with a high value for luxury and tech products that focus on the exclusivity, value of the products, innovation and quality should be used to draw in more customers.
