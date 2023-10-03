@@ -1,4 +1,4 @@
-# Project 1 - Sales analysis Analysis
+# MeriSkill Sales Analysis
 
 ![Banner or Intro Image](banner_sales_analysis_meriskill.png)
 ## Introduction
